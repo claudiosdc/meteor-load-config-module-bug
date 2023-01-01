@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.7.6",
-    "config": "^3.2.5",
+    "config": "^3.3.8",
     "jquery": "^3.4.1",
     "meteor-node-stubs": "^1.0.0"
   },
